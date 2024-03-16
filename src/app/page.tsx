@@ -16,8 +16,8 @@ export default function Home() {
                 Hi, I am <span className="underline">Vikram</span>.
               </p>
               <p className={`${"font-mono text-md md:text-xl"}`}>
-                Welcome to ShutterClick&aposs Photography & Videography!
-                Capturing the moments that matter.
+                Welcome to ShutterBlaze Photography & Videography! Capturing the
+                moments that matter.
               </p>
             </div>
           </div>
